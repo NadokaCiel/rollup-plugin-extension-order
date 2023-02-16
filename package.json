@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-extension-order",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a rollup plugin for extension order",
   "author": "ciel | Email:ciel.zhang@verystar.cn",
   "main": "dist/rollup-plugin-extension-order.min.js",
